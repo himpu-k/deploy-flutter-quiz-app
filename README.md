@@ -6,9 +6,15 @@ From the statistics you can see the amount of correct answers answered throughou
 
 # 3 challenges
 
+1. Creating tests for the code.
+2. Deploying the application.
+3. Creating reusable code.
+
 # 3 learning moments
 
 1. Creating a reusable BaseScreen for all the screens to be consistent with each other.
+2. Deploying the application using GitHub Pages.
+3. Writing test coverage over 50%.
 
 # Dependencies
 
